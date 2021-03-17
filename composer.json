@@ -23,10 +23,10 @@
     },
     "require": {
         "php": "^7.0",
-        "illuminate/support": "5.5.*"
+        "illuminate/support": "^8.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^6.4"
+        "phpunit/phpunit": "^8.0"
     },
     "extra": {
         "laravel": {
